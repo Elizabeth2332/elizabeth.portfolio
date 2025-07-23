@@ -47,10 +47,22 @@ Welcome to my Python mini-project portfolio! This project includes two beginner-
 ---
 
 ## ▶️ How to Run
+If you have a Jupyter notebook version, start Jupyter and open the notebook file
+  jupyter notebook
 
-Make sure you have Python 3 installed on your system.
+You can also run this project easily online using **Google Colab**:
+1. Save the Notebook to your Google Drive
+2. Go to [Google Colab](https://colab.research.google.com/).
+3. Navigate to your file, open
+4. Run the notebook cells interactively in your browser — no setup required!
+
+Alternatively, make sure you have Python 3 installed on your system.
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/quiz-bmi-calculator.git
    cd quiz-bmi-calculator
+2. **Navigate to this project folder**:
+   cd elizabeth.portfolio/Python-Quiz-game&BMI-calculator
+    or
+   cd Python-Quiz-game\&BMI-calculator
