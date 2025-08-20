@@ -5,7 +5,7 @@ Here you’ll find projects that showcase my skills in data analysis, data scien
 ## 📂 Projects
 
 ### 1. Chinook SQL & Pandas Analysis
-- **Skills:** SQL querying, Python (Pandas), Data Cleaning, Data Visualization  
+- **Skills:** SQL querying, Python (Pandas), Data Cleaning, Data Visualisation  
 - **Summary:** Analyzed sales and customer data in the Chinook music store database to uncover trends in purchase behavior and chart performance.  
 - **Highlights:** Identified top-selling genres and customer demographics; visualized trends using bar charts and descriptive statistics.  
 - [View Project →](./Chinook-SQL-Pandas-Analysis)
