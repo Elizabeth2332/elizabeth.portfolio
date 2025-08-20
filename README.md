@@ -35,5 +35,5 @@ Hi! I'm Elizabeth. Welcome to my portfolio! Here you’ll find projects that sho
 - Git & GitHub
 
 ## 📫 Contact
-- LinkedIn: [https://www.linkedin.com/in/elizabeth-ojog-493263236/](#)
+- LinkedIn: [Elizabeth Ojog](https://www.linkedin.com/in/elizabeth-ojog-493263236/)
 - Email: [ojogelizabeth@gmail.com]
