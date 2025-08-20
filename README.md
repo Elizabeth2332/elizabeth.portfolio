@@ -1,6 +1,5 @@
-# Elizabeth’s Data Science Portfolio
-
-Welcome to my portfolio! Here you’ll find projects that showcase my skills in data analysis, machine learning, and data visualization.  
+# Data Science Portfolio
+Hi! I'm Elizabeth. Welcome to my portfolio! Here you’ll find projects that showcase my skills in data analysis, data science, and data visualisation.
 
 ## 📂 Projects
 
