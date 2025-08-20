@@ -1,5 +1,6 @@
 # Data Science Portfolio
-Hi! I'm Elizabeth. Welcome to my portfolio! Here you’ll find projects that showcase my skills in data analysis, data science, and data visualisation.
+Hi! I'm Elizabeth, a Computer Science graduate based in Ireland. I am currently pursuing a Master's in Machine Learning and AI.
+Here you’ll find projects that showcase my skills in data analysis, data science, and data visualisation.
 
 ## 📂 Projects
 
