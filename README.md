@@ -25,7 +25,8 @@ Welcome to my portfolio! Here you’ll find projects that showcase my skills in 
   - Performed exploratory data analysis to uncover insights into student performance.
   - Created visualizations such as histograms, box plots, and scatter plots to illustrate key findings.
 - **Summary:** Explored student exam scores to identify performance patterns and correlations with study habits.  
-- [View Project →](./Student-Test-Scores-Analysis)
+- [View Project →](./Student%20Test%20Scores%20Analysis-python-visualisation)
+
 ---
 
 ## 🛠️ Tech Stack
