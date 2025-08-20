@@ -10,7 +10,7 @@ Here you’ll find projects that showcase my skills in data analysis, data scien
 - **Highlights:** Identified top-selling genres and customer demographics; visualized trends using bar charts and descriptive statistics.  
 - [View Project →](./Chinook-SQL-Pandas-Analysis)
 
-### 2. [Python-Quiz-game&BMI-calculator]
+### 2. Python-Quiz-game&BMI-calculator
 - **Skills:** Python (Functions, Conditionals, Loops, Input/Output), Basic Logic Development  
 - **Summary:** Built two beginner-level Python programs:  
 - **Quiz Game:** An interactive command-line quiz that asks users questions and provides instant feedback and scoring.  
@@ -27,6 +27,9 @@ Here you’ll find projects that showcase my skills in data analysis, data scien
 - **Summary:** Explored student exam scores to identify performance patterns and correlations with study habits.  
 - [View Project →](./Student%20Test%20Scores%20Analysis-python-visualisation)
 
+## 4. In Progress
+- ML model for predicting house prices
+- Exploratory Data Analysis of Kaggle datasets
 ---
 
 ## 🛠️ Tech Stack
